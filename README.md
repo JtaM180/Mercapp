@@ -1,8 +1,8 @@
 # MercApp - Catálogo de Productos
 
 ## Datos del Estudiante
-- **Nombre:** Tu Nombre Completo
-- **Carrera:** Ingeniería en Sistemas
+- **Nombre:** Julio Tamato
+- **Carrera:** Software
 - **Materia:** Aplicaciones Web
 - **Universidad:** Universidad Politécnica Salesiana
 
