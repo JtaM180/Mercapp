@@ -1,7 +1,7 @@
 # MercApp - Catálogo de Productos
 
 ## Datos del Estudiante
-- **Nombre:** Julio Tamato
+- **Nombre:** Julio Tamayo
 - **Carrera:** Software
 - **Materia:** Aplicaciones Web
 - **Universidad:** Universidad Politécnica Salesiana
